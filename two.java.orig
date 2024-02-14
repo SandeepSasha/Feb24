@@ -1,0 +1,11 @@
+class two
+{
+<<<<<<< HEAD
+int am= 50; #praveen
+=======
+int am= 20; #sandeep
+>>>>>>> 490ade97d1638b883f5c5879f30665e45043b09d
+int b =15;
+printf(a+b);
+
+}
