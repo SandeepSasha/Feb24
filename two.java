@@ -1,6 +1,6 @@
 class two
 {
-int am= 50; #praveen
+int am= 20; #sandeep:
 int b =15;
 printf(a+b);
 
