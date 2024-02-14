@@ -1,11 +1,11 @@
 class two
 {
+int am= 20; #sandeep:
 <<<<<<< HEAD
-int am= 50; #praveen
+int b =15; #praveen kumar
 =======
-int am= 20; #sandeep
->>>>>>> 490ade97d1638b883f5c5879f30665e45043b09d
-int b =15;
+int b =15; #sandeep reddy
+>>>>>>> 7422a85d28db456dd154b19d3b0f9319a321a7f3
 printf(a+b);
 
 }
