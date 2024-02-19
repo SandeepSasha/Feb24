@@ -4,3 +4,5 @@ maven
 jenkins
 ansible
 docker
+aws
+terraform
